@@ -3,7 +3,7 @@ console.log('Loaded!');
 //var element = document.getElementById('main-text');
 //element.innerHTML = 'Welcome Bitches!' ;
 //Move the image
-var img = document.getElementById('madi');
+/*var img = document.getElementById('madi');
 var marginLeft = 0;
 function moveRight() {
     marginLeft = marginLeft + 5;
@@ -11,4 +11,4 @@ function moveRight() {
 }
 img.onclick = function() {
     var interval = setInterval(moveRight,50);
-};
+};*/
